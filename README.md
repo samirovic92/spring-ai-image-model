@@ -1,0 +1,1 @@
+# Spring ai image model
